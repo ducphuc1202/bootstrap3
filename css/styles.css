@@ -152,7 +152,8 @@ img {
 /* Explore event */
 .explore-event {
   background-color: #EEEEEE;
-  border-bottom: 2px solid #e6e5e5; }
+  border-bottom: 2px solid #e6e5e5;
+  overflow: hidden; }
   .explore-event .explore-head {
     padding-top: 60px;
     padding-bottom: 60px;

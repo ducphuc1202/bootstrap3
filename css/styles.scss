@@ -203,6 +203,7 @@ img {
 .explore-event {
   background-color: $gray;
   border-bottom: 2px solid $warm-gray;
+  overflow: hidden;
   .explore-head {
     padding-top: 60px;
     padding-bottom: 60px;
@@ -228,6 +229,7 @@ img {
         }
       }
       .dropup {
+
         input[type="checkbox"] {
           margin: 5px;
         }
